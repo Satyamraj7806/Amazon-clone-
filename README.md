@@ -19,4 +19,13 @@ i tried to make a clone of amazon homepage
             <div class="navbarlogo border">
                 <div class="logo"></div>
             </div>
+             <div class="address border">
+                <div class="delivery">
+                    <p id="deliverto">Deliver to</p>
+                    <div class="locationicon">
+                        <i class="fa-solid fa-location-dot"></i>
+                        <p id="india">INDIA</p>
+                    </div>
+                </div>
+            </div>
             
