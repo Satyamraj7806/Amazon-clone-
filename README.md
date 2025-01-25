@@ -12,3 +12,11 @@ i tried to make a clone of amazon homepage
     <link rel="stylesheet" href="amazon.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 </head>
+
+<body>
+    <header>
+        <div class="navbar">
+            <div class="navbarlogo border">
+                <div class="logo"></div>
+            </div>
+            
