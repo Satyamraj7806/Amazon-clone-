@@ -55,4 +55,47 @@ i tried to make a clone of amazon homepage
                 <i class="fa-solid fa-cart-shopping"></i>
             </div>
         </div>
+        <div class="panel">
+            <div class="menu">
+                <i class="fa-solid fa-bars"></i>
+                <p>All</p>
+            </div>
+            <div class="panelelements">
+                <p>Today's Deals</p>
+                <p> Customer Service</p>
+                <p>Registry</p>
+                <p>Gift Cards</p>
+                <p>Sell</p>
+            </div>
+        </div>
+    </header>
+    <div class="herosection">
+        <div class="heromsg">
+            <p>Bhaiya aap chala rhe ho Sattu.com. <a href="#">yaha click mat karna</a></p>
+        </div>
+    </div>
+    <div class="shopsection">
+        <div class="box1 box">
+            <h2>GAMING</h2>
+            <div class="box1image">
+                <p>shopnow</p>
+            </div>
+        </div>
+        <div class="box2 box">
+            <h2>FASHION</h2>
+            <div class="box2image">
+            </div>
+        </div>
+        <div class="box3 box">
+            <h2>ELECTRNOICS</h2>
+            <div class="box3image"></div>
+        </div>
+        <div class="box4 box">
+            <h2>KITCHEN</h2>
+            <div class="box4image"></div>
+        </div>
+    </div>
+</body>
+
+</html>
 
