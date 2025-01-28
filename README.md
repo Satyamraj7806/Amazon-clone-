@@ -28,4 +28,31 @@ i tried to make a clone of amazon homepage
                     </div>
                 </div>
             </div>
-            
+             <div class="navsearch">
+                <select class="searchselect">
+                    <option>All</option>
+                </select>
+                <input id="searchbar" placeholder="Search Sattu">
+                <div class="searchicon">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                </div>
+            </div>
+            <div class="country border">
+                <div class="flagicon">
+                    <i class="fa-solid fa-globe"></i>
+                    <p class="countryname">IN</p>
+                </div>
+            </div>
+            <div class="signin border">
+                <p><span>Hello, sign in</span></p>
+                <p class="navsecondclass">Accounts & Lists</p>
+            </div>
+            <div class="returns border">
+                <p><span>Returns</span></p>
+                <p class="navsecondclass">Orders</p>
+            </div>
+            <div class="navcart border">
+                <i class="fa-solid fa-cart-shopping"></i>
+            </div>
+        </div>
+
